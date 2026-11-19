@@ -1,6 +1,6 @@
 <!-- Da copiare nel repository pubblico «.github» dell'organizzazione, nel file profile/README.md -->
 
-<p align="left"><img src="https://raw.githubusercontent.com/CorvexDevelops/.github/main/profile/corvex-social-1280x640.png" alt="Corvex · your platforms deserve real defenses" width="100%"></p>
+<p align="left"><img src="https://raw.githubusercontent.com/CorvexDevelops/.github/main/profile/corvex-social-1280x640.png?v=2" alt="Corvex · your platforms deserve real defenses" width="100%"></p>
 
 ### `/*` Your platforms deserve real defenses `*/`
 
