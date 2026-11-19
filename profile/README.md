@@ -1,5 +1,6 @@
 <!-- Da copiare nel repository pubblico «.github» dell'organizzazione, nel file profile/README.md -->
 <p align="left"><img src="https://raw.githubusercontent.com/CorvexDevelops/.github/main/profile/corvex-social-1280x640.png" alt="Corvex · your platforms deserve real defenses" width="100%"></p>
+
 ### `/*` Your platforms deserve real defenses `*/`
 
 **Corvex** puts the dashboards, software and computer you work on to the test.
