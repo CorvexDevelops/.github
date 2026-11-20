@@ -9,6 +9,8 @@ A team of 28 specialised agents hunts for security gaps, alerts you and tells yo
 When it's safe to do so, it fixes them on its own, or opens a pull request for you to review.
 The AI behind it is **corvexai**, a model we developed for security work. It ships with Corvex and runs locally.
 
+**Website:** [corvexdevelops.github.io](https://corvexdevelops.github.io/) · [team](https://corvexdevelops.github.io/team.html) · [corvexai](https://corvexdevelops.github.io/corvexai.html) · [updates](https://corvexdevelops.github.io/updates.html)
+
 ​```text
 $ corvex --status
 web ............... headers, TLS, cookies, CORS, exposed files, injections, APIs, email, subdomains
@@ -16,6 +18,7 @@ code .............. secrets, git history, weak crypto, dangerous settings, vulne
 this computer ..... malware in new files, system posture, exposed services, network traffic
 ai ................ corvexai, our own model, local, no third-party providers
 open source ....... corvex-bench, corvex-netkit, ai-security-rules
+website ........... corvexdevelops.github.io
 download .......... coming soon
 ​```
 
