@@ -9,38 +9,49 @@ A team of 28 specialised agents hunts for security gaps, alerts you and tells yo
 When it's safe to do so, it fixes them on its own, or opens a pull request for you to review.
 The AI behind it is **corvexai**, a model we developed for security work. It ships with Corvex and runs locally.
 
-**Website:** [corvexdevelops.github.io](https://corvexdevelops.github.io/) · [team](https://corvexdevelops.github.io/team.html) · [corvexai](https://corvexdevelops.github.io/corvexai.html) · [updates](https://corvexdevelops.github.io/updates.html)
+**Website:** [corvexdevelops.github.io](https://corvexdevelops.github.io/) · [team](https://corvexdevelops.github.io/team.html) · [features](https://corvexdevelops.github.io/features.html) · [corvexai](https://corvexdevelops.github.io/corvexai.html) · [community](https://corvexdevelops.github.io/community.html) · [updates](https://corvexdevelops.github.io/updates.html)
 
-​```text
+```text
 $ corvex --status
-web ............... headers, TLS, cookies, CORS, exposed files, injections, APIs, email, subdomains
-code .............. secrets, git history, weak crypto, dangerous settings, vulnerable dependencies
-this computer ..... malware in new files, system posture, exposed services, network traffic
+web ............... CSP, TLS, cookies, CORS, exposed files, injections, APIs, email, subdomains
+code .............. secrets, git history, crypto, Docker, IaC, dependencies, Supabase, AI costs
+system ............ malware, persistence, posture, exploited CVEs, connections, network traffic
+team .............. chat, discussion on every issue, Slack, Teams, Jira, SSO
 ai ................ corvexai, our own model, local, no third-party providers
 open source ....... corvex-bench, corvex-netkit, ai-security-rules
 website ........... corvexdevelops.github.io
 download .......... coming soon
-​```
+```
 
 - **Runs on your machine.** Your code, files and results never leave it.
 - **Fixes, not just findings.** Ready-made fixes you approve, or pull requests on a separate branch.
 - **Our own AI, corvexai.** Built by us for security work, it powers CORVUS and the code audit. No cloud AI, no data sent to third parties.
 - **Plain-language answers.** CORVUS, the built-in assistant, explains every issue and where to start.
 - **Measured in public.** The benchmark we test Corvex with is open source, so you can check our numbers and measure any other tool the same way.
-- **Windows, macOS and Linux.** Web dashboard or desktop app, in English and Italian.
+- **Built for teams.** Team chat, a discussion on every issue, SSO, a read-only reviewer role and a tamper-evident activity log.
+- **Windows and macOS.** Web dashboard or desktop app, in English and Italian.
+
+### `/*` Recent news `*/`
+
+- **Every agent sharper.** Over 50 new checks across web, code and System, false alarms fixed one by one. Our internal test bench now finds 215 issues out of 215, with zero false alarms.
+- **Team chat and integrations.** Channels, direct messages and a discussion on every issue. Alerts on Slack, Microsoft Teams, Jira Cloud or a signed webhook.
+- **Scans behind the sign-in.** An encrypted sign-in profile lets the agents test the private area too. Credentials never show in evidence or reports.
+- **Pull request checks.** Code agents block the merge on new issues, with SARIF for GitHub Code scanning. Runs on your own machines.
+
+All the news: [corvexdevelops.github.io/updates.html](https://corvexdevelops.github.io/updates.html)
 
 ### `/*` Measured in public, with a yardstick you can use too `*/`
 
 [**corvex-bench**](https://github.com/CorvexDevelops/corvex-bench) is the benchmark we measure Corvex with: a website, a project and a network capture with 71 known flaws, each paired with a clean twin. Every finding on a clean twin counts as a false alarm.
 
-​```text
+```text
 $ python3 bench/bench.py score results/
 web-vulnerable ..... 18/18 found
 code-vulnerable .... 32/32 found
 traffic-attacks .... 21/21 found
 clean twins ........ 0 false alarms
 71/71 · offline, without AI
-​```
+```
 
 It scores the results of any tool in SARIF or JSON, and catches regressions against a saved baseline.
 
@@ -57,7 +68,7 @@ It scores the results of any tool in SARIF or JSON, and catches regressions agai
 
 All Apache License 2.0, pure Python, no dependencies, no model weights.
 
-> Corvex is in its final polishing stage. Downloads and plans open soon.
+> Corvex is in its final polishing stage. Downloads open soon.
 
 ---
 
