@@ -31,6 +31,12 @@ download .......... coming soon
 - **Built for teams.** Team chat, a discussion on every issue, SSO, a read-only reviewer role and a tamper-evident activity log.
 - **Windows and macOS.** Web dashboard or desktop app, in English and Italian.
 
+### `/*` Watch Corvex at work `*/`
+
+[![Watch the 92-second preview of Corvex](https://raw.githubusercontent.com/CorvexDevelops/.github/main/profile/corvex-preview.jpg)](https://corvexdevelops.github.io/#anteprima)
+
+92 seconds of the real dashboard: a target behind the sign-in, the live scan, issues with their proof, the fix, pull request checks, System, the team chat and CORVUS. [Watch it on the website](https://corvexdevelops.github.io/#anteprima) or [open the video](https://corvexdevelops.github.io/assets/corvex-preview.mp4).
+
 ### `/*` Recent news `*/`
 
 - **Every agent sharper.** Over 50 new checks across web, code and System, false alarms fixed one by one. Our internal test bench now finds 215 issues out of 215, with zero false alarms.
