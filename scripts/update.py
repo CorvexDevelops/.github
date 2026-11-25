@@ -72,8 +72,9 @@ def activity(commits, n_repos, stars):
     cmd = "git log --org CorvexDevelops --public"
     cw = 13 * .6
     steps = ";".join(f"{k * cw:.1f}" for k in range(len(cmd) + 1))
-    stamp = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Latest public commits of CorvexDevelops, updated {stamp}">
+    # the date of the newest commit, not of the run: the card only changes when something new happens
+    stamp = ("last commit " + day(commits[0]["date"])) if commits else "no commits yet"
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Latest public commits of CorvexDevelops, {stamp}">
 <style>{FONT_CSS} .cur{{animation:b 1s steps(1) infinite}} @keyframes b{{50%{{opacity:0}}}} @media (prefers-reduced-motion:reduce){{*{{animation:none!important}}}}</style>
 <defs><clipPath id="ty"><rect x="150" y="44" height="22" width="0"><animate attributeName="width" values="{steps}" calcMode="discrete" begin=".3s" dur="{len(cmd) * .035:.2f}s" fill="freeze"/></rect></clipPath></defs>
 <rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="8" fill="#0A0A0A" stroke="#222"/>
@@ -83,7 +84,7 @@ def activity(commits, n_repos, stars):
 <text x="24" y="60" style="font-size:13px"><tspan fill="{OK}">guest@corvex</tspan><tspan fill="#777">:</tspan><tspan fill="{WEB}">~</tspan><tspan fill="#777">$</tspan></text>
 <text x="150" y="60" fill="#fff" style="font-size:13px" clip-path="url(#ty)">{cmd}</text>
 {"".join(rows)}
-<text x="24" y="{H - 14}" fill="#555" style="font-size:10px">{n_repos} public repositories · {stars} stars · updated {stamp}</text>
+<text x="24" y="{H - 14}" fill="#555" style="font-size:10px">{n_repos} public repositories · {stars} stars · {stamp}</text>
 <rect class="cur" x="{W - 32}" y="{H - 25}" width="8" height="14" fill="#fff"/>
 </svg>"""
 
