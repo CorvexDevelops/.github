@@ -9,28 +9,28 @@
 <text x="150" y="60" fill="#fff" style="font-size:13px" clip-path="url(#ty)">git log --org CorvexDevelops --public</text>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.20s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="1.20s" dur=".3s" fill="freeze"/>
-<text x="24" y="92" style="font-size:12px"><tspan fill="#F5B041">a8b7e9d</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">corvex-code: voce in viola nel menu e notizia del suo…</tspan></text>
+<text x="24" y="92" style="font-size:12px"><tspan fill="#F5B041">447e5a1</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">corvex-code: video da 82 secondi</tspan></text>
 <text x="856" y="92" style="font-size:11px" fill="#666" text-anchor="end">25 Nov 2026</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.40s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="1.40s" dur=".3s" fill="freeze"/>
-<text x="24" y="116" style="font-size:12px"><tspan fill="#F5B041">57f8646</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">corvex-code: download dal repository pubblico delle r…</tspan></text>
+<text x="24" y="116" style="font-size:12px"><tspan fill="#F5B041">44afb77</tspan>  <tspan fill="#7FA7FF">corvex-code-releases</tspan> <tspan fill="#d6d6d6">README banner</tspan></text>
 <text x="856" y="116" style="font-size:11px" fill="#666" text-anchor="end">25 Nov 2026</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.60s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="1.60s" dur=".3s" fill="freeze"/>
-<text x="24" y="140" style="font-size:12px"><tspan fill="#F5B041">92bf920</tspan>  <tspan fill="#7FA7FF">corvex-code-releases</tspan> <tspan fill="#d6d6d6">corvex-code releases</tspan></text>
+<text x="24" y="140" style="font-size:12px"><tspan fill="#F5B041">a8b7e9d</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">corvex-code: voce in viola nel menu e notizia del suo…</tspan></text>
 <text x="856" y="140" style="font-size:11px" fill="#666" text-anchor="end">25 Nov 2026</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.80s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="1.80s" dur=".3s" fill="freeze"/>
-<text x="24" y="164" style="font-size:12px"><tspan fill="#F5B041">974f2a4</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">corvex-code: nuova pagina con i download per macOS e …</tspan></text>
+<text x="24" y="164" style="font-size:12px"><tspan fill="#F5B041">57f8646</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">corvex-code: download dal repository pubblico delle r…</tspan></text>
 <text x="856" y="164" style="font-size:11px" fill="#666" text-anchor="end">25 Nov 2026</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.00s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="2.00s" dur=".3s" fill="freeze"/>
-<text x="24" y="188" style="font-size:12px"><tspan fill="#F5B041">ec649b7</tspan>  <tspan fill="#7FA7FF">corvex-opensource   </tspan> <tspan fill="#d6d6d6">Profilo: avvisa il profilo dell'organizzazione dopo o…</tspan></text>
+<text x="24" y="188" style="font-size:12px"><tspan fill="#F5B041">92bf920</tspan>  <tspan fill="#7FA7FF">corvex-code-releases</tspan> <tspan fill="#d6d6d6">corvex-code releases</tspan></text>
 <text x="856" y="188" style="font-size:11px" fill="#666" text-anchor="end">25 Nov 2026</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.20s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="2.20s" dur=".3s" fill="freeze"/>
-<text x="24" y="212" style="font-size:12px"><tspan fill="#F5B041">bed5671</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">Profilo: avvisa il profilo dell'organizzazione dopo o…</tspan></text>
+<text x="24" y="212" style="font-size:12px"><tspan fill="#F5B041">974f2a4</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">corvex-code: nuova pagina con i download per macOS e …</tspan></text>
 <text x="856" y="212" style="font-size:11px" fill="#666" text-anchor="end">25 Nov 2026</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.40s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="2.40s" dur=".3s" fill="freeze"/>
-<text x="24" y="236" style="font-size:12px"><tspan fill="#F5B041">1852ac8</tspan>  <tspan fill="#7FA7FF">corvex-bench        </tspan> <tspan fill="#d6d6d6">Profilo: avvisa il profilo dell'organizzazione dopo o…</tspan></text>
+<text x="24" y="236" style="font-size:12px"><tspan fill="#F5B041">ec649b7</tspan>  <tspan fill="#7FA7FF">corvex-opensource   </tspan> <tspan fill="#d6d6d6">Profilo: avvisa il profilo dell'organizzazione dopo o…</tspan></text>
 <text x="856" y="236" style="font-size:11px" fill="#666" text-anchor="end">25 Nov 2026</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.60s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="2.60s" dur=".3s" fill="freeze"/>
-<text x="24" y="260" style="font-size:12px"><tspan fill="#F5B041">d12b0f4</tspan>  <tspan fill="#7FA7FF">corvex-netkit       </tspan> <tspan fill="#d6d6d6">Profilo: avvisa il profilo dell'organizzazione dopo o…</tspan></text>
+<text x="24" y="260" style="font-size:12px"><tspan fill="#F5B041">bed5671</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">Profilo: avvisa il profilo dell'organizzazione dopo o…</tspan></text>
 <text x="856" y="260" style="font-size:11px" fill="#666" text-anchor="end">25 Nov 2026</text></g>
 <text x="24" y="310" fill="#555" style="font-size:10px">5 public repositories · 0 stars · last commit 25 Nov 2026</text>
 <rect class="cur" x="848" y="299" width="8" height="14" fill="#fff"/>
