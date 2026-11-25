@@ -1,6 +1,6 @@
 <!-- Da copiare nel repository pubblico «.github» dell'organizzazione, nel file profile/README.md -->
 
-<p align="left"><img src="https://raw.githubusercontent.com/CorvexDevelops/.github/main/profile/corvex-social-1280x640.png?v=2" alt="Corvex · your platforms deserve real defenses" width="100%"></p>
+<p align="left"><a href="https://corvexdevelops.github.io/"><img src="https://raw.githubusercontent.com/CorvexDevelops/.github/main/profile/banner.svg?v=1" alt="Corvex · your platforms deserve real defenses" width="100%"></a></p>
 
 ### `/*` Your platforms deserve real defenses `*/`
 
@@ -11,17 +11,7 @@ The AI behind it is **corvexai**, a model we developed for security work. It shi
 
 **Website:** [corvexdevelops.github.io](https://corvexdevelops.github.io/) · [team](https://corvexdevelops.github.io/team.html) · [features](https://corvexdevelops.github.io/features.html) · [corvexai](https://corvexdevelops.github.io/corvexai.html) · [community](https://corvexdevelops.github.io/community.html) · [updates](https://corvexdevelops.github.io/updates.html)
 
-```text
-$ corvex --status
-web ............... CSP, TLS, cookies, CORS, exposed files, injections, APIs, email, subdomains
-code .............. secrets, git history, crypto, Docker, IaC, dependencies, Supabase, AI costs
-system ............ malware, persistence, posture, exploited CVEs, connections, network traffic
-team .............. chat, discussion on every issue, Slack, Teams, Jira, SSO
-ai ................ corvexai, our own model, local, no third-party providers
-open source ....... corvex-bench, corvex-netkit, ai-security-rules
-website ........... corvexdevelops.github.io
-download .......... coming soon
-```
+<a href="https://corvexdevelops.github.io/features.html"><img src="https://raw.githubusercontent.com/CorvexDevelops/.github/main/profile/status.svg?v=1" alt="$ corvex --status · web: CSP, TLS, cookies, CORS, exposed files, injections, APIs, email, subdomains · code: secrets, git history, crypto, Docker, IaC, dependencies, Supabase, AI costs · system: malware, persistence, posture, exploited CVEs, connections, network traffic · team: chat, Slack, Teams, Jira, SSO · ai: corvexai, local · open source: corvex-bench, corvex-netkit, ai-security-rules · download: coming soon" width="100%"></a>
 
 - **Runs on your machine.** Your code, files and results never leave it.
 - **Fixes, not just findings.** Ready-made fixes you approve, or pull requests on a separate branch.
@@ -30,6 +20,18 @@ download .......... coming soon
 - **Measured in public.** The benchmark we test Corvex with is open source, so you can check our numbers and measure any other tool the same way.
 - **Built for teams.** Team chat, a discussion on every issue, SSO, a read-only reviewer role and a tamper-evident activity log.
 - **Windows and macOS.** Web dashboard or desktop app, in English and Italian.
+
+### `/*` The team: 28 agents `*/`
+
+<a href="https://corvexdevelops.github.io/team.html"><img src="https://raw.githubusercontent.com/CorvexDevelops/.github/main/profile/agents.svg?v=1" alt="The 28 Corvex agents: CORVUS coordinates; web agents SPECTER, VECTOR, HANDSHAKE, JACKAL, NULLBYTE, MIRROR, PAYLOAD, RELIC, HAMMER, SCHEMA, SPOOF, HIJACK; code agents SKELETON, CIPHER, DAEMON, CHAIN, REWIND, BLUEPRINT, LEDGER, VAULT, LEECH, ORACLE; system agents BASTION, WARDEN, SONAR, TIDE, VIGIL" width="100%"></a>
+
+Each agent has one job. CORVUS studies the target, decides who works and in which order, and writes the report. Meet them all on the [team page](https://corvexdevelops.github.io/team.html).
+
+### `/*` corvexai: our AI model, one job: security `*/`
+
+<a href="https://corvexdevelops.github.io/corvexai.html"><img src="https://raw.githubusercontent.com/CorvexDevelops/.github/main/profile/corvexai.svg?v=1" alt="corvexai, measured on cases it never saw in training: 66% issues found on its own in the code, 96% with the question sheet, 100% defenses recognised with the exact line, 83% reported issues verified correctly. 4B parameters, 2.9 GB, runs only on 127.0.0.1, SHA-256 verified, no third parties" width="100%"></a>
+
+The Corvex team trained it in-house on an analyst's real tasks. It runs on your server and questions never leave. It powers CORVUS, the plain-language assistant, and ORACLE, the AI code audit that tries to disprove its own findings before showing them. [All the numbers](https://corvexdevelops.github.io/corvexai.html).
 
 ### `/*` Watch Corvex at work `*/`
 
@@ -50,14 +52,7 @@ All the news: [corvexdevelops.github.io/updates.html](https://corvexdevelops.git
 
 [**corvex-bench**](https://github.com/CorvexDevelops/corvex-bench) is the benchmark we measure Corvex with: a website, a project and a network capture with 71 known flaws, each paired with a clean twin. Every finding on a clean twin counts as a false alarm.
 
-```text
-$ python3 bench/bench.py score results/
-web-vulnerable ..... 18/18 found
-code-vulnerable .... 32/32 found
-traffic-attacks .... 21/21 found
-clean twins ........ 0 false alarms
-71/71 · offline, without AI
-```
+<a href="https://github.com/CorvexDevelops/corvex-bench"><img src="https://raw.githubusercontent.com/CorvexDevelops/.github/main/profile/bench.svg?v=1" alt="$ python3 bench/bench.py score results/ · web-vulnerable 18/18 found · code-vulnerable 32/32 found · traffic-attacks 21/21 found · clean twins 0 false alarms · 71/71 offline, without AI" width="100%"></a>
 
 It scores the results of any tool in SARIF or JSON, and catches regressions against a saved baseline.
 
