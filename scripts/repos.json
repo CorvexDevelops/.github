@@ -1,0 +1,27 @@
+{
+  "_how": "How each public repository shows up in the profile. A new public repository appears on its own with its GitHub description; add it here to change the text or the order, or list it in 'hide'.",
+  "hide": [
+    ".github",
+    "discussions",
+    "corvexdevelops.github.io"
+  ],
+  "order": [
+    "corvex-bench",
+    "corvex-netkit",
+    "ai-security-rules",
+    "corvex-opensource"
+  ],
+  "text": {
+    "corvex-bench": "An honest benchmark for security scanners and AI code auditors: 71 known flaws, clean twins for false alarms, SARIF and JSON scoring, regression baseline.",
+    "corvex-netkit": "Network and vulnerability utilities written from public specs: read .pcap and .pcapng, generate captures with 21 common attacks, match installed versions to real CVEs, look up addresses in huge network lists.",
+    "ai-security-rules": "Security rules for AI coding agents (Claude Code, Cursor, Copilot, Windsurf, AGENTS.md): no leaked keys, no open Supabase or Firebase, no AI endpoints without limits. Ready-to-copy files plus a generator for your stack.",
+    "corvex-opensource": "The open skills and tools of corvexai in one place: how to report findings with checkable quotes of the code, how to measure a scanner honestly, and the tools above."
+  },
+  "no_activity": [
+    ".github",
+    "discussions"
+  ],
+  "alias": {
+    "corvexdevelops.github.io": "website"
+  }
+}

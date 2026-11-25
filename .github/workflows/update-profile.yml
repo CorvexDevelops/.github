@@ -1,0 +1,38 @@
+name: update profile
+
+# Keeps the CorvexDevelops profile in step with its public repositories:
+# the open source table and the live activity card.
+on:
+  schedule:
+    - cron: "23 * * * *"   # every hour
+  workflow_dispatch:
+  repository_dispatch:
+    types: [update-profile]
+  push:
+    branches: [main]
+    paths: ["scripts/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild table and activity card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update.py
+      - name: Commit if something changed
+        run: |
+          git add profile
+          git diff --cached --quiet && { echo "nothing to update"; exit 0; }
+          git config user.name "CorvexDevelops"
+          git config user.email "CorvexDevelops@users.noreply.github.com"
+          git commit -m "Profilo: aggiornato dai repository pubblici"
+          git push

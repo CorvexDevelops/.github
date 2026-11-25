@@ -60,14 +60,18 @@ It scores the results of any tool in SARIF or JSON, and catches regressions agai
 
 ### `/*` Open source `*/`
 
-| Repository | What it is |
-|---|---|
-| [**corvex-bench**](https://github.com/CorvexDevelops/corvex-bench) | An honest benchmark for security scanners and AI code auditors: 71 known flaws, clean twins for false alarms, SARIF and JSON scoring, regression baseline. |
-| [**corvex-netkit**](https://github.com/CorvexDevelops/corvex-netkit) | Network and vulnerability utilities written from public specs: read .pcap and .pcapng, generate captures with 21 common attacks, match installed versions to real CVEs, look up addresses in huge network lists. |
-| [**ai-security-rules**](https://github.com/CorvexDevelops/ai-security-rules) | Security rules for AI coding agents (Claude Code, Cursor, Copilot, Windsurf, AGENTS.md): no leaked keys, no open Supabase or Firebase, no AI endpoints without limits. Ready-to-copy files plus a generator for your stack. |
-| [**corvex-opensource**](https://github.com/CorvexDevelops/corvex-opensource) | The open skills and tools of corvexai in one place: how to report findings with checkable quotes of the code, how to measure a scanner honestly, and the tools above. |
+<!-- repos:start -->
+| Repository | What it is | Updated |
+|---|---|---|
+| [**corvex-bench**](https://github.com/CorvexDevelops/corvex-bench) | An honest benchmark for security scanners and AI code auditors: 71 known flaws, clean twins for false alarms, SARIF and JSON scoring, regression baseline. | 19 Nov 2026 |
+| [**corvex-netkit**](https://github.com/CorvexDevelops/corvex-netkit) | Network and vulnerability utilities written from public specs: read .pcap and .pcapng, generate captures with 21 common attacks, match installed versions to real CVEs, look up addresses in huge network lists. | 19 Nov 2026 |
+| [**ai-security-rules**](https://github.com/CorvexDevelops/ai-security-rules) | Security rules for AI coding agents (Claude Code, Cursor, Copilot, Windsurf, AGENTS.md): no leaked keys, no open Supabase or Firebase, no AI endpoints without limits. Ready-to-copy files plus a generator for your stack. | 19 Nov 2026 |
+| [**corvex-opensource**](https://github.com/CorvexDevelops/corvex-opensource) | The open skills and tools of corvexai in one place: how to report findings with checkable quotes of the code, how to measure a scanner honestly, and the tools above. | 19 Nov 2026 |
+<!-- repos:end -->
 
 All Apache License 2.0, pure Python, no dependencies, no model weights.
+
+<a href="https://github.com/CorvexDevelops"><img src="https://raw.githubusercontent.com/CorvexDevelops/.github/main/profile/activity.svg" alt="Latest public commits of CorvexDevelops, refreshed every hour" width="100%"></a>
 
 > Corvex is in its final polishing stage. Downloads open soon.
 
