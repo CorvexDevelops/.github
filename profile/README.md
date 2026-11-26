@@ -9,7 +9,7 @@ A team of 28 specialised agents hunts for security gaps, alerts you and tells yo
 When it's safe to do so, it fixes them on its own, or opens a pull request for you to review.
 The AI behind it is **corvexai**, a model we developed for security work. It ships with Corvex and runs locally.
 
-**Website:** [corvexdevelops.github.io](https://corvexdevelops.github.io/) · [team](https://corvexdevelops.github.io/team.html) · [features](https://corvexdevelops.github.io/features.html) · [corvexai](https://corvexdevelops.github.io/corvexai.html) · [community](https://corvexdevelops.github.io/community.html) · [updates](https://corvexdevelops.github.io/updates.html)
+**Website:** [corvexdevelops.github.io](https://corvexdevelops.github.io/) · [team](https://corvexdevelops.github.io/team.html) · [features](https://corvexdevelops.github.io/features.html) · [corvexai](https://corvexdevelops.github.io/corvexai.html) · [community](https://corvexdevelops.github.io/community.html) · [updates](https://corvexdevelops.github.io/updates.html) · **[Discord](https://discord.gg/7QXVRfDtFf)**
 
 <a href="https://corvexdevelops.github.io/features.html"><img src="https://raw.githubusercontent.com/CorvexDevelops/.github/main/profile/status.svg?v=1" alt="$ corvex --status · web: CSP, TLS, cookies, CORS, exposed files, injections, APIs, email, subdomains · code: secrets, git history, crypto, Docker, IaC, dependencies, Supabase, AI costs · system: malware, persistence, posture, exploited CVEs, connections, network traffic · team: chat, Slack, Teams, Jira, SSO · ai: corvexai, local · open source: corvex-bench, corvex-netkit, ai-security-rules · download: coming soon" width="100%"></a>
 
@@ -57,6 +57,11 @@ All the news: [corvexdevelops.github.io/updates.html](https://corvexdevelops.git
 It scores the results of any tool in SARIF or JSON, and catches regressions against a saved baseline.
 
 <sub>The targets are twins of the benchmark Corvex is tuned on: it's our reference, not an independent test.</sub>
+
+### `/*` Community `*/`
+
+Join the **[Corvex server on Discord](https://discord.gg/7QXVRfDtFf)**: open a private ticket with the team, post ideas and bugs in the feedback channel
+where the community votes on them, and hear about every new version of Corvex and corvex-code first.
 
 ### `/*` Open source `*/`
 
