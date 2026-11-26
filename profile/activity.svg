@@ -9,22 +9,22 @@
 <text x="150" y="60" fill="#fff" style="font-size:13px" clip-path="url(#ty)">git log --org CorvexDevelops --public</text>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.20s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="1.20s" dur=".3s" fill="freeze"/>
-<text x="24" y="92" style="font-size:12px"><tspan fill="#F5B041">2432e8a</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">corvex-code 0.1.2: attività su Discord</tspan></text>
+<text x="24" y="92" style="font-size:12px"><tspan fill="#F5B041">aa5ad27</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">corvex-code: loghi dei linguaggi per Discord</tspan></text>
 <text x="856" y="92" style="font-size:11px" fill="#666" text-anchor="end">26 Nov 2026</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.40s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="1.40s" dur=".3s" fill="freeze"/>
-<text x="24" y="116" style="font-size:12px"><tspan fill="#F5B041">33e05d5</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">Notizie: corvex-code 0.1.2</tspan></text>
+<text x="24" y="116" style="font-size:12px"><tspan fill="#F5B041">2432e8a</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">corvex-code 0.1.2: attività su Discord</tspan></text>
 <text x="856" y="116" style="font-size:11px" fill="#666" text-anchor="end">26 Nov 2026</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.60s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="1.60s" dur=".3s" fill="freeze"/>
-<text x="24" y="140" style="font-size:12px"><tspan fill="#F5B041">c02b236</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">Notizie: corvex-code 0.1.1</tspan></text>
-<text x="856" y="140" style="font-size:11px" fill="#666" text-anchor="end">25 Nov 2026</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.80s" dur=".3s" fill="freeze"/>
+<text x="24" y="140" style="font-size:12px"><tspan fill="#F5B041">33e05d5</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">Notizie: corvex-code 0.1.2</tspan></text>
+<text x="856" y="140" style="font-size:11px" fill="#666" text-anchor="end">26 Nov 2026</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.80s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="1.80s" dur=".3s" fill="freeze"/>
-<text x="24" y="164" style="font-size:12px"><tspan fill="#F5B041">447e5a1</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">corvex-code: video da 82 secondi</tspan></text>
+<text x="24" y="164" style="font-size:12px"><tspan fill="#F5B041">c02b236</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">Notizie: corvex-code 0.1.1</tspan></text>
 <text x="856" y="164" style="font-size:11px" fill="#666" text-anchor="end">25 Nov 2026</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.00s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="2.00s" dur=".3s" fill="freeze"/>
-<text x="24" y="188" style="font-size:12px"><tspan fill="#F5B041">44afb77</tspan>  <tspan fill="#7FA7FF">corvex-code-releases</tspan> <tspan fill="#d6d6d6">README banner</tspan></text>
+<text x="24" y="188" style="font-size:12px"><tspan fill="#F5B041">447e5a1</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">corvex-code: video da 82 secondi</tspan></text>
 <text x="856" y="188" style="font-size:11px" fill="#666" text-anchor="end">25 Nov 2026</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.20s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="2.20s" dur=".3s" fill="freeze"/>
-<text x="24" y="212" style="font-size:12px"><tspan fill="#F5B041">a8b7e9d</tspan>  <tspan fill="#7FA7FF">website             </tspan> <tspan fill="#d6d6d6">corvex-code: voce in viola nel menu e notizia del suo…</tspan></text>
+<text x="24" y="212" style="font-size:12px"><tspan fill="#F5B041">44afb77</tspan>  <tspan fill="#7FA7FF">corvex-code-releases</tspan> <tspan fill="#d6d6d6">README banner</tspan></text>
 <text x="856" y="212" style="font-size:11px" fill="#666" text-anchor="end">25 Nov 2026</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.40s" dur=".3s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="-8 0" to="0 0" begin="2.40s" dur=".3s" fill="freeze"/>
 <text x="24" y="236" style="font-size:12px"><tspan fill="#F5B041">92bf920</tspan>  <tspan fill="#7FA7FF">corvex-code-releases</tspan> <tspan fill="#d6d6d6">corvex-code releases</tspan></text>
